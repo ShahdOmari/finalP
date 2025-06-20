@@ -1,4 +1,7 @@
+# Project  Landingpage LaslesVPN 
 This repo about final project in html & css course  
-web name : Landingpage LaslesVPN 
-the tools : Tools used (HTML, CSS) 
+
+ ## Tools used :
+ - [HTML]
+ - [CSS]
 
